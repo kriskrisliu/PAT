@@ -1,5 +1,5 @@
 ## Introduction
-This repo is the official implementation of `PAT: Pruning-Aware Tuning for Large Language Models`. [(arxiv)](https://www.arxiv.org/abs/2408.14721)
+This repo is the official implementation of AAAI 2025 paper: [PAT: Pruning-Aware Tuning for Large Language Models.](https://www.arxiv.org/abs/2408.14721)
 ![](data/framework.png)
 
 ## News
