@@ -3,6 +3,7 @@ This repo is the official implementation of `PAT: Pruning-Aware Tuning for Large
 ![](data/framework.png)
 
 ## News
+- [x] 2024.12 - Our [PAT](https://www.arxiv.org/abs/2408.14721) has been accepted by [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).
 - [x] 2024.9 - We merged pruned PAT(25%)-Llama2 which can be loaded by `transformers[with-our-modification]`. [(download)](https://box.nju.edu.cn/d/75ca31eb571448f59401/)
 ![](data/merged_llama7b_3072.png)
 - [x] 2024.8 - We release the paper and code for PAT. [(arxiv)](https://www.arxiv.org/abs/2408.14721)
