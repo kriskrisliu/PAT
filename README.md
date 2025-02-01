@@ -1,3 +1,7 @@
+# PAT: Pruning-Aware Tuning for Large Language Models
+![Python 3.9](https://img.shields.io/badge/Python-3.9-red)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2408.14721)
+
 ## Introduction
 This repo is the official implementation of AAAI 2025 paper: [PAT: Pruning-Aware Tuning for Large Language Models.](https://www.arxiv.org/abs/2408.14721)
 ![](data/framework.png)
@@ -7,9 +11,6 @@ This repo is the official implementation of AAAI 2025 paper: [PAT: Pruning-Aware
 - [x] 2024.9 - We merged pruned PAT(25%)-Llama2 which can be loaded by `transformers[with-our-modification]`. [(download)](https://box.nju.edu.cn/d/75ca31eb571448f59401/)
 ![](data/merged_llama7b_3072.png)
 - [x] 2024.8 - We release the paper and code for PAT. [(arxiv)](https://www.arxiv.org/abs/2408.14721)
-
-## Acknowledgment
-Modified from [FireFly](https://github.com/yangjianxin1/Firefly)
 
 ## Best Practice
 ```bash
@@ -82,3 +83,6 @@ Additionally, we provide some PAT results [here](https://box.nju.edu.cn/d/75ca31
 - [x] Gemma 2B
 - [x] Gemma 7B
 - [x] Yi-1.5 34B
+
+## Acknowledgment
+Modified from [FireFly](https://github.com/yangjianxin1/Firefly)
